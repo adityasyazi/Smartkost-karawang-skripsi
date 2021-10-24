@@ -1,27 +1,9 @@
 # Smartkost-karawang-skripsiTahun2020-Universitas Pelita Bangsa
-<h1>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things.</h1>
-
-
-
-
-<h3>Kelebihan Sistem ini Yaitu:</h3>
-<ul>
-  <li>Menggunakan RFID Hak Akses</li>
-  <li>Terdapat Log/Histori Penggunaan Perangkat</li>
-  <li>Terdapat Database</li>
-</ul>
-<h3>Kekurangan sistem ini Yaitu:</h3>
-<ul>
-  <li>Belum Responsive</li>
-  <li>Menggunakan php native</li>
-  <li>Tampilan Sederhana</li>
-</ul>
-
 
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<!-- <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -37,10 +19,10 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
-</style>
+</style> -->
 </head>
 <body>
-
+<h1>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things.</h1>
 <h2>Alat dan Bahan</h2>
 
 <table>
@@ -81,6 +63,19 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+  <h3>Kelebihan Sistem ini Yaitu:</h3>
+<ul>
+  <li>Menggunakan RFID Hak Akses Pada masing-masing ruangan(ruangan A dan Ruangan B)</li>
+  <li>Terdapat Log/Histori Penggunaan Perangkat</li>
+  <li>Terdapat Database</li>
+</ul>
+<h3>Kekurangan sistem ini Yaitu:</h3>
+<ul>
+  <li>Belum Responsive</li>
+  <li>Menggunakan php native</li>
+  <li>Tampilan Sederhana</li>
+</ul>
+  
 </body>
 </html>
 
