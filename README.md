@@ -1,6 +1,6 @@
 # Prototype Smartkost-karawang-skripsi-Tahun2020-Universitas Pelita Bangsa
 
-<p>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things, Kita dapat memantau dan mengendalikan perangkat Listrik ataupun Perangkat Rumah Tangga dari jarak jauh melalui sebuah website ini.</p>
+<p>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things, Kita dapat memantau dan mengendalikan perangkat Listrik ataupun Perangkat Rumah Tangga seperti lampu, kipas, AC, kulkas dll dari jarak jauh melalui sebuah website ini. Kita juga dapat membatasi dan mengamankan pintu rumah kita dengan kunci pintu yang terintegrasi dengan sistem. Penggunaanya yaitu cukup menempelkan Kartu RFID ke Mesin Tap RFID maka Kunci akan terbuka sesuai dengan hak aksesnya.</p>
 <h2>Alat dan Bahan</h2>
 
 <table>
@@ -45,13 +45,14 @@
 <ul>
   <li>Menggunakan RFID Hak Akses Pada masing-masing ruangan(ruangan A dan Ruangan B)</li>
   <li>Terdapat Log/Histori Penggunaan Perangkat</li>
-  <li>Terdapat Database</li>
+  <li>Terdapat Database Penghuni</li>
 </ul>
 <h3>Kekurangan sistem ini Yaitu:</h3>
 <ul>
   <li>Belum Responsive</li>
   <li>Menggunakan php native</li>
-  <li>Tampilan Sederhana</li>
+  <li>Tampilan Sangat Sederhana</li>
+  <li>Belum Menggunakan KTP sebagai Kartu RFID</li>
 </ul>
 
 ![skripsi1](https://user-images.githubusercontent.com/57047229/138588830-d65f4279-2270-4330-b472-7ebbbd14bc5f.jpg=100x100 )
