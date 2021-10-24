@@ -1,6 +1,6 @@
 # Prototype Smartkost-karawang-skripsi-Tahun2020-Universitas Pelita Bangsa
 
-<h1>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things.</h1>
+<p>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things.</p>
 <h2>Alat dan Bahan</h2>
 
 <table>
