@@ -54,8 +54,8 @@
   <li>Tampilan Sederhana</li>
 </ul>
 
-![skripsi1](https://user-images.githubusercontent.com/57047229/138588830-d65f4279-2270-4330-b472-7ebbbd14bc5f.jpg)
-![skripsi2](https://user-images.githubusercontent.com/57047229/138588833-6b09405d-5c03-4bd7-8879-67bdde645eb0.jpg)
+![skripsi1](https://user-images.githubusercontent.com/57047229/138588830-d65f4279-2270-4330-b472-7ebbbd14bc5f.jpg | width=100)
+![skripsi2](https://user-images.githubusercontent.com/57047229/138588833-6b09405d-5c03-4bd7-8879-67bdde645eb0.jpg=250x250)
 ![skripsi3](https://user-images.githubusercontent.com/57047229/138588835-ba275227-09fe-4b1d-a72e-2745cdb5d880.jpg)
 ![skripsi4](https://user-images.githubusercontent.com/57047229/138588836-ff3888c1-cd62-430f-8d2f-9850eaafcc47.jpg)
 ![web](https://user-images.githubusercontent.com/57047229/138589220-e5f36dd4-d2b7-444f-b52a-782dc87d8499.jpg)
