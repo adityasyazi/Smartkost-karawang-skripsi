@@ -10,7 +10,6 @@
   <li>Terdapat Log/Histori Penggunaan Perangkat</li>
   <li>Terdapat Database</li>
 </ul>
-</br>
 <h3>Kekurangan sistem ini Yaitu:</h3>
 <ul>
   <li>Belum Responsive</li>
@@ -42,43 +41,43 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Alat dan Bahan</h2>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>No</th>
+    <th>Nama Alat/Bahan</th>
+    <th>Jumlah</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>1</td>
+    <td>Raspberry Pi 3B</td>
+    <td>1 Unit</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>2</td>
+    <td>RFID Reader dan Tag</td>
+    <td>2 Unit</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>3</td>
+    <td>Doorlock</td>
+    <td>2 Unit</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>4</td>
+    <td>Lampu</td>
+    <td>2 Unit</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>5</td>
+    <td>Kipas/Cooler komputer</td>
+    <td>2 Unit</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>6</td>
+    <td>Modul Relay 4 Chanel</td>
+    <td>1 Unit</td>
   </tr>
 </table>
 
