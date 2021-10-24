@@ -1,0 +1,43 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Cara Mengganti gambar dengan cara Mengklik pada javascript</title>
+	<style>
+		.container{
+			width: 500px;
+			margin: auto;
+			border: 2px dashed pink;
+			padding: 20px;
+		}
+		button{
+			margin-top:20px;
+		}
+		h1{
+			text-align: center;
+			border: 1px dotted green;
+		}
+	</style>
+</head>
+<body>
+<div class="container">
+	<h1>Cara Mengganti gambar dengan cara Mengklik pada javascript</h1>
+	<img id="image" src="javascript.jpg" width="160" height="120">
+	<br>
+	<button id="btn">Ganti icon</button>
+	<button id="reset">Reset</button>
+	<p id="teks"></p>
+	<script type="text/javascript">
+	document.getElementById('btn').onclick = function change_image()
+	{
+		document.getElementById("image").src="jquery.png";
+		document.getElementById('teks').textContent = "Gambar ini sudah di ganti dengan gambar sebelumnya";
+	}
+	document.getElementById('reset').onclick = function change_image()
+	{
+		document.getElementById("image").src="javascript.jpg";
+		document.getElementById('teks').textContent = "";
+	}
+</script>
+</div>
+</body>
+</html>
