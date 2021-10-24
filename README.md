@@ -1,27 +1,5 @@
 # Smartkost-karawang-skripsiTahun2020-Universitas Pelita Bangsa
 
-<!DOCTYPE html>
-<html>
-<head>
-<!-- <style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style> -->
-</head>
-<body>
 <h1>Project Smartkost ini merupakan suatu sistem yang dibuat dari pengembangan Smarthome berbasis web php native dengan teknologi Internet of things.</h1>
 <h2>Alat dan Bahan</h2>
 
@@ -63,7 +41,7 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-  <h3>Kelebihan Sistem ini Yaitu:</h3>
+ <h3>Kelebihan Sistem ini Yaitu:</h3>
 <ul>
   <li>Menggunakan RFID Hak Akses Pada masing-masing ruangan(ruangan A dan Ruangan B)</li>
   <li>Terdapat Log/Histori Penggunaan Perangkat</li>
@@ -75,6 +53,32 @@ tr:nth-child(even) {
   <li>Menggunakan php native</li>
   <li>Tampilan Sederhana</li>
 </ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style> -->
+</head>
+<body>
+
+
+ 
   
 </body>
 </html>
