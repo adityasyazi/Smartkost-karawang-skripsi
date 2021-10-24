@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Modul Relay 4 Chanel</td>
+    <td>Modul Relay 6 Chanel</td>
     <td>1 Unit</td>
   </tr>
 </table>
