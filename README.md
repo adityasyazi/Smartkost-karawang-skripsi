@@ -58,7 +58,7 @@
 ![skripsi2](https://user-images.githubusercontent.com/57047229/138588833-6b09405d-5c03-4bd7-8879-67bdde645eb0.jpg)
 ![skripsi3](https://user-images.githubusercontent.com/57047229/138588835-ba275227-09fe-4b1d-a72e-2745cdb5d880.jpg)
 ![skripsi4](https://user-images.githubusercontent.com/57047229/138588836-ff3888c1-cd62-430f-8d2f-9850eaafcc47.jpg)
-![web](https://user-images.githubusercontent.com/57047229/138588846-41993bd9-847e-4e52-9f6a-01380e2b3981.png)
+![web](https://user-images.githubusercontent.com/57047229/138589220-e5f36dd4-d2b7-444f-b52a-782dc87d8499.jpg)
 ![sketsa sistem versi 2](https://user-images.githubusercontent.com/57047229/138588861-7c40a0b3-c7c5-4560-8367-3388f4db5cf8.jpg)
 
 
